@@ -1,0 +1,25 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html, body {
+   height: 100%;
+}
+
+body {
+   background-color: #b22025;
+   /* color: #b22025;
+   color: #ec1d24; */
+}
+
+canvas {
+   height: 90% !important;
+   width: 100% !important;
+}
+
+#game-container {
+   display: flex;
+   align-items: center;
+}
